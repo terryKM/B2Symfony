@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Mountains+of+Christmas');
+
+
+
+.nav{
+    background-color: whitesmoke;
+
+}
+.card1{
+    padding-top: 10px;
+    font-family: cursive;
+}
+
+
+.card-title{
+    font-family:'Mountains of Christmas', cursive;
+
+}
+
+.card1{
+    padding-top: 10px;
+}
+
+
+
+
+#cardimg{
+    width: 50%;
+
+}
